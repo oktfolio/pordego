@@ -1,7 +1,3 @@
-package pordego
-
-import "strings"
-
 package main
 
 import (
